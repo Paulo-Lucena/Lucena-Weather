@@ -1,6 +1,6 @@
 # Lucena Weathe
 
-Este projeto foi desenvoldido a partir do Coding Lab [Criando projeto para consultar a previsão do tempo via API](https://web.dio.me/lab/criando-projeto-para-consultar-a-previsao-do-tempo-via-api/learning/c6483105-5863-451b-9b00-51758b85d211), disponiblizado pela plataforma [Digital Innovation One](https://web.dio.me/home)
+Este projeto foi desenvolvido a partir do Coding Lab [Criando projeto para consultar a previsão do tempo via API](https://web.dio.me/lab/criando-projeto-para-consultar-a-previsao-do-tempo-via-api/learning/c6483105-5863-451b-9b00-51758b85d211), disponiblizado pela plataforma [Digital Innovation One](https://web.dio.me/home)
 
 --
 
